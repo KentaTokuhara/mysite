@@ -1,0 +1,38 @@
+.my1{
+    height: 350px;
+    width: inherit;
+    object-fit: cover;
+}
+
+.my2{
+    height: 500px;
+    width: inherit;
+    object-fit: cover;
+}
+
+
+
+.my4{
+    display: block;
+    margin: 0 auto;
+}
+
+.mine1{
+    background-image: url("../img/about/baby.jpg");
+    background-size: cover;
+}
+
+.mine2{
+    background-image: url("../img/about/jr.jpg");
+    background-size: cover;
+}
+
+.mine3{
+    background-image: url("../img/about/kaihatutai.jpg");
+    background-size: cover;
+}
+
+.mine4{
+    background-image: url("../img/about/tunagi.jpg");
+    background-size: cover;
+}
